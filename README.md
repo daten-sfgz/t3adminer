@@ -6,3 +6,5 @@ t3adminer is a Typo3 Extension existing in the typo3 <a target="_blank" href="ht
 - Good tool together with the Extension sdb_adminer or sdb_maker. 
 
 - This Extension is not neccessary if you have access to PHPmyAdmin instead
+
+- installing sdb_adminer enables you to add external databases!
